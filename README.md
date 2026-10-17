@@ -56,11 +56,11 @@ Custom ecommerce built from scratch — no templates, no per-sale commission, ow
 ### Latest post
 
 <!-- BLOG-POST:START -->
-<a href="https://www.wilmargarcia.dev/blog/wilmargarcia-md-harness-development">
-  <img src="https://pub-304e9b339d2f49a98d43e7a401eda245.r2.dev/blog/1783899372353-qw52596v2m.png" alt="wilmargarcia.md: How I Turned All My Experience Into a Harness for Building With AI" width="100%" />
+<a href="https://www.wilmargarcia.dev/blog/1000-pull-requests-in-one-project-what-i-learned-building-alone">
+  <img src="https://pub-304e9b339d2f49a98d43e7a401eda245.r2.dev/blog/1792172919575-8pvmknapge2.png" alt="1,000 Pull Requests in One Project: What I Learned Building, Alone, a System a Service Center Uses Every Day" width="100%" />
 </a>
 
-📝 **[wilmargarcia.md: How I Turned All My Experience Into a Harness for Building With AI](https://www.wilmargarcia.dev/blog/wilmargarcia-md-harness-development)**
+📝 **[1,000 Pull Requests in One Project: What I Learned Building, Alone, a System a Service Center Uses Every Day](https://www.wilmargarcia.dev/blog/1000-pull-requests-in-one-project-what-i-learned-building-alone)**
 <!-- BLOG-POST:END -->
 
 ---
