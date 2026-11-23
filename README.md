@@ -56,11 +56,11 @@ Custom ecommerce built from scratch — no templates, no per-sale commission, ow
 ### Latest post
 
 <!-- BLOG-POST:START -->
-<a href="https://www.wilmargarcia.dev/blog/the-technical-sow-how-i-build-one-as-an-architect">
-  <img src="https://pub-304e9b339d2f49a98d43e7a401eda245.r2.dev/blog/1792433109990-rzlp9rqkxpo.png" alt="The Technical SOW: How I Put One Together, From the First Meeting to the Client's Signature" width="100%" />
+<a href="https://www.wilmargarcia.dev/blog/electronic-invoicing-dian-what-i-learned">
+  <img src="https://pub-304e9b339d2f49a98d43e7a401eda245.r2.dev/blog/1795455681688-hhyuqb1ukv.png" alt="Electronic Invoicing With Colombia's DIAN: What I Learned Wiring It Into a System That Invoices Every Day" width="100%" />
 </a>
 
-📝 **[The Technical SOW: How I Put One Together, From the First Meeting to the Client's Signature](https://www.wilmargarcia.dev/blog/the-technical-sow-how-i-build-one-as-an-architect)**
+📝 **[Electronic Invoicing With Colombia's DIAN: What I Learned Wiring It Into a System That Invoices Every Day](https://www.wilmargarcia.dev/blog/electronic-invoicing-dian-what-i-learned)**
 <!-- BLOG-POST:END -->
 
 ---
